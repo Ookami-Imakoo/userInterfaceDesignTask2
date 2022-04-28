@@ -45,6 +45,7 @@ ul
 	{margin-top:0in;
 	margin-bottom:0in;
 	}
+	
 
 .topnav {
   overflow: hidden;
@@ -111,4 +112,20 @@ ul
   .topnav input[type=text] {
     border: 1px solid #ccc;  
   }
+  
+.pageContent {
+	display: block;
+	margin-top: 10px;
+	background-color: white;
+}
+
+.afterPageContent {
+	display: inline-block;
+	margin: 40px;
+}
+
+.banner {
+	float: right;
+}
+
 }
