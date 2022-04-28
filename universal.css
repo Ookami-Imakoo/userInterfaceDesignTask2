@@ -46,6 +46,11 @@ ul
 	margin-bottom:0in;
 	}
 	
+footer {
+	display: block;
+	background-color:#003B6D;
+}
+	
 
 .topnav {
   overflow: hidden;
@@ -116,6 +121,7 @@ ul
 .pageContent {
 	display: block;
 	margin-top: 10px;
+	margin-bottom: 10px;
 	background-color: white;
 }
 
@@ -126,6 +132,39 @@ ul
 
 .banner {
 	float: right;
+}
+
+.socials {
+	display: block;
+	padding-top: 10px;
+	padding-right: 10px;
+}
+
+.facebookIcon {
+	height: 2.4em;
+	padding-left: 10px;
+}
+
+.twitterIcon {
+	height: 2.4em;
+	padding-left: 10px;
+}
+
+.youtubeIcon {
+	height: 2.4em;
+	padding-left: 10px;
+}
+
+.pinterestIcon {
+	height: 2.4em;
+	padding-left: 10px;
+}
+
+.contatUs {
+	display: inline-block;
+	float: right;
+	color: white;
+	text-decoration: underline;
 }
 
 }
